@@ -34,13 +34,11 @@ Sypixel allows you to quickly search for Hypixel players and view their general 
 
 ## 📸 Screenshots
 
-<!-- Example:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/92d7e3c5-93a8-40e1-8cda-dfca856cd608" width="200" alt="Player Search Screen">
        
   <img src="https://github.com/user-attachments/assets/d5814fd8-4994-43cf-995f-161dd7498152" width="200" alt="Player Detail Screen">
 </p>
--->
 
 ---
 
