@@ -1,6 +1,6 @@
 # Sypixel 
 
-<!-- <p align="center"><img src="https://github.com/user-attachments/assets/66740af9-4fe7-4f6f-9107-16796167cab1" width="150"></p> -->
+<p align="center"><img src="https://github.com/user-attachments/assets/66740af9-4fe7-4f6f-9107-16796167cab1" width="150"></p>
 
 **View Hypixel stats on the go with Sypixel, a native iOS app built with SwiftUI!**
 
